@@ -1,6 +1,6 @@
 #include<iostream>
 #include<map>
-#include"List.h"
+#include"list.h"
 
 using namespace std;
 
