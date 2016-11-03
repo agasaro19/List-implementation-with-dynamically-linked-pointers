@@ -1,6 +1,6 @@
 #include<iostream>
 #include<algorithm>
-#include"List.h"
+#include"list.h"
 
 using namespace std;
 
